@@ -52,6 +52,8 @@ Before downloading Microsoft Word, complete this checklist:
 ### Warning:
 Some steps might require admin permissions; ensure you have them.
 
+*Don’t miss our recommendation to check out Test Drive of Quickbooks Software and discover how it can transform your business operations: https://whips-kicks.com/quickbooks-test-drive*
+
 ## Post-installation Setup (Time Required: 10 minutes)
 
 After installing, perform these setups:
